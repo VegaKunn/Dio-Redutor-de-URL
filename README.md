@@ -8,8 +8,6 @@ Aula da DIO.
 - `npm run build`
 - `npm run dev`
 
- 
 
-Informações pessoais:
 
  
